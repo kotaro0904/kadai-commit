@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Initial commit"
+git add .
+git commit -m "Add variable"
+git add .
+git commit -m "Add omikuji result"
